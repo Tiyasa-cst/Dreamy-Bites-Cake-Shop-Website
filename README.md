@@ -1,2 +1,2 @@
 # Dreamy-Bites-Cake-Shop-Website
-A fully responsive cake shop website featuring an attractive UI, product categories, customer reviews, and contact information. Developed using HTML, CSS, JavaScript, and Bootstrap.
+Dreamy Bites is a full-stack responsive bakery website that showcases a modern online cake shop experience. Developed using HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL, the project includes dedicated Home, Shop, About Us, Contact, and Dashboard pages with a clean, user-friendly interface. This project demonstrates responsive web design, front-end development, backend integration, and database management.
